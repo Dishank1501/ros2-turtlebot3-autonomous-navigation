@@ -73,9 +73,9 @@ ros2 lifecycle get /bt_navigator
 Document the actual issues encountered during setup, the experiments performed, and the changes that resolved them.
 
 ## Results
-
-Add screenshots and describe the navigation tests that were successfully completed.
+https://drive.google.com/file/d/1Qpg1iAXdWn5cMMmND_4AF3cICUG5Guea/view?usp=drive_link
+https://drive.google.com/file/d/1Up8uBaXPYxcBvCj_uRuH6zAtFgaUipN7/view?usp=drive_link
 
 ## Demo
 
-Add the link to the recorded demonstration here.
+https://drive.google.com/file/d/1oqxmGwR_hJCl1lXCZFPI5e5he66rQw1b/view?usp=drive_link
