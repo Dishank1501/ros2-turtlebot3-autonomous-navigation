@@ -1,0 +1,32 @@
+# ROS 2 build artifacts
+build/
+install/
+log/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Temporary and backup files
+*.tmp
+*.swp
+*~
+*.bak
+
+# Logs
+*.log
